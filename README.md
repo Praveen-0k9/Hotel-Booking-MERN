@@ -1,8 +1,8 @@
-# Stay Atlasin
+# Holiday Inn
 
 ## Overview
 
-**Stay Atlasin** is a luxury vacation rental platform designed to offer premium travel experiences. Built with modern web technologies, it allows users to discover exclusive properties, manage bookings, and host unique stays.
+**Holiday Inn** is a luxury vacation rental platform designed to offer premium travel experiences. Built with modern web technologies, it allows users to discover exclusive properties, manage bookings, and host unique stays.
 
 ## Features
 
