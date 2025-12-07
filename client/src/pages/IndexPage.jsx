@@ -15,7 +15,7 @@ const IndexPage = () => {
       {places.length > 0 ? (
         places.map((place) => <PlaceCard place={place} key={place._id} />)
       ) : (
-        <div className="absolute left-1/2 right-1/2 top-40 flex  w-full -translate-x-1/2 transform flex-col p-10  md:w-1/2">
+        <div className="absolute left-1/2 right-1/2 top-96 flex  w-full -translate-x-1/2 transform flex-col p-10  md:w-1/2">
           <h1 className="text-3xl font-semibold">Result not found!</h1>
           <p className="text-lg font-semibold">
             Sorry, we couldn&#39;t find the place you&#39;re looking for.

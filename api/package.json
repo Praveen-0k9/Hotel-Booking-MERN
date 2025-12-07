@@ -10,7 +10,7 @@
     "api",
     "backend"
   ],
-  "author": "rahul4019",
+  "author": "Stay Atlasin Team",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
