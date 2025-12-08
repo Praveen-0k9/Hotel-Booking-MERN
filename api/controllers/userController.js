@@ -139,7 +139,7 @@ exports.uploadPicture = async (req, res) => {
     return new Promise((resolve, reject) => {
       const stream = cloudinary.uploader.upload_stream(
         {
-          folder: 'Airbnb/Users',
+          folder: 'HotelBooking/Users',
         },
         (error, result) => {
           if (result) {

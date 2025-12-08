@@ -47,9 +47,7 @@ const Footer = () => {
           <div className="flex flex-col gap-1">
             <strong className="font-medium">Hosting</strong>
             <p>
-              <span className="cursor-pointer font-normal text-muted-foreground decoration-1 underline-offset-1 hover:underline">
-                Airbnb your home
-              </span>
+              HotelBooking your home
             </p>
             <p>
               <span className="cursor-pointer font-normal text-muted-foreground decoration-1 underline-offset-1 hover:underline">
@@ -73,7 +71,7 @@ const Footer = () => {
             </p>
           </div>
           <div className="flex flex-col gap-1">
-            <strong className="font-medium">Airbnb</strong>
+            <strong className="font-medium">Stay Atlasin</strong>
             <p>
               <span className="cursor-pointer font-normal text-muted-foreground decoration-1 underline-offset-1 hover:underline">
                 Newsroom
@@ -95,9 +93,7 @@ const Footer = () => {
               </span>
             </p>
             <p>
-              <span className="cursor-pointer font-normal text-muted-foreground decoration-1 underline-offset-1 hover:underline">
-                Airbnb.org emergency stays
-              </span>
+              HotelBooking.org emergency stays
             </p>
           </div>
         </div>
@@ -154,7 +150,7 @@ const Footer = () => {
           </div>
 
           <div className="flex w-full flex-col gap-2 px-1 font-normal text-muted-foreground md:w-auto md:flex-row md:items-center md:gap-8">
-            <p className="text-sm">&copy; 2023 Airbnb, Inc.</p>
+            <p className="text-sm">&copy; 2023 Stay Atlasin, Inc.</p>
             <div>
               <ul className=" flex gap-6 text-sm text-muted-foreground">
                 <li className="cursor-pointer text-muted-foreground decoration-1 underline-offset-1 hover:underline md:list-disc">

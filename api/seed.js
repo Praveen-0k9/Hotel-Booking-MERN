@@ -23,11 +23,11 @@ async function seedDatabase() {
     await Place.deleteMany({});
     log('Cleared existing places');
 
-    let testUser = await User.findOne({ email: 'test@airbnb.com' });
+    let testUser = await User.findOne({ email: 'test@hotelbooking.com' });
     if (!testUser) {
       testUser = await User.create({
         name: 'Test User',
-        email: 'test@airbnb.com',
+        email: 'test@hotelbooking.com',
         password: 'test123'
       });
       log('Created test user');
