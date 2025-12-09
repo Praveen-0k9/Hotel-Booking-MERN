@@ -131,8 +131,8 @@ export const Header = () => {
                   <Crown className="h-7 w-7 fill-current" />
                 </div>
                 <div className="flex flex-col">
-                  <span className="text-xl font-bold leading-tight tracking-wide text-foreground">Holiday</span>
-                  <span className="text-xs font-medium tracking-[0.2em] text-yellow-600 uppercase">Inn</span>
+                  <span className="text-xl font-bold leading-tight tracking-wide text-foreground">Swift</span>
+                  <span className="text-xs font-medium tracking-[0.2em] text-yellow-600 uppercase">Stay</span>
                 </div>
               </Link>
 
