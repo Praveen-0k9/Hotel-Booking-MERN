@@ -20,7 +20,7 @@
 - **Authentication**: JWT, Google OAuth
 - **Storage**: Cloudinary (Image management)
 
-## Getting Started
+
 
 ### Prerequisites
 
